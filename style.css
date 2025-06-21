@@ -2,7 +2,7 @@
 
 .favourite-places-bg-container {
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
-    height:1000vh
+    height:1000vh;
     background-size: cover;
 }
 
